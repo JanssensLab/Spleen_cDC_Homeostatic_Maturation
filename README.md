@@ -22,4 +22,5 @@ Here's an overview of the various R scripts used in processing the Bulk and CITE
 
 ## Citation
 
-...
+Victor Bosteels et al. , LXR signaling controls homeostatic dendritic cell maturation. Sci. Immunol. 8, eadd3955(2023). DOI:10.1126/sciimmunol.add3955
+
